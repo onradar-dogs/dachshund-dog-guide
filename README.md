@@ -1,2 +1,5 @@
-# dachshund-dog-guide
-Dog breed guide for Dachshund — feeding, health, training, care tips
+# Dachshund Dog Guide
+
+Complete Dachshund care guide.
+
+Visit: https://onradar-dogs.github.io/dachshund-dog-guide/
